@@ -1,12 +1,14 @@
 package com.wakaleo.gameoflife.domain;
 
-/*comment entered for git testing purposes*/
-/*comment 2 ^*/
-/*comment 3 ^*/
-/*comment 4 ^*/
-/*comment 5 ^*/
-/*comment 6 - trying with many projects*/
-/*comment 7 ^*/
+/*comment entered for git testing purposes
+ * commit 1*/
+/*commit 2 ^*/
+/*commit 3 ^*/
+/*commit 4 ^*/
+/*commit 5 ^*/
+/*commit 6 - trying with many projects*/
+/*commit 7 ^*/
+/*commit 8 ^*/
 public enum Cell {
     LIVE_CELL("*"), DEAD_CELL(".");
 
