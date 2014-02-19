@@ -9,6 +9,7 @@ package com.wakaleo.gameoflife.domain;
 /*commit 6 - trying with many projects*/
 /*commit 7 ^*/
 /*commit 8 ^*/
+/*commit 9 ^*/
 public enum Cell {
     LIVE_CELL("*"), DEAD_CELL(".");
 
