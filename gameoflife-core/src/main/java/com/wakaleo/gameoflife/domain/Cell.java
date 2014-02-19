@@ -6,6 +6,7 @@ package com.wakaleo.gameoflife.domain;
 /*comment 4 ^*/
 /*comment 5 ^*/
 /*comment 6 - trying with many projects*/
+/*comment 7 ^*/
 public enum Cell {
     LIVE_CELL("*"), DEAD_CELL(".");
 
