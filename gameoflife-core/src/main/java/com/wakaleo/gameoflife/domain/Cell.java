@@ -11,6 +11,7 @@ package com.wakaleo.gameoflife.domain;
 /*commit 8 ^*/
 /*commit 9 ^*/
 /*commit 10.1 ^*/
+/*commit phase 2.0 - bug fix found */
 public enum Cell {
     LIVE_CELL("*"), DEAD_CELL(".");
 
